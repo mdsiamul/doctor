@@ -1,6 +1,10 @@
 import React from 'react';
 import Dental from '../Dental/Dental';
 import Banner from './Banner';
+import Commnet from './Commnet';
+import Contacthome from './Contacthome';
+import Footer from './Footer';
+
 import Info from './Info';
 import Makeappoint from './Makeappoint';
 import Services from './Services';
@@ -13,6 +17,10 @@ const Home = () => {
             <Services></Services>
             <Dental></Dental>
             <Makeappoint></Makeappoint>
+            <Commnet></Commnet>
+            <Contacthome></Contacthome>
+            <Footer></Footer>
+
         </div>
     );
 };
