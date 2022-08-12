@@ -3,7 +3,7 @@ import Dental from '../Dental/Dental';
 import Banner from './Banner';
 import Commnet from './Commnet';
 import Contacthome from './Contacthome';
-import Footer from './Footer';
+import Footer from '../Shared/Footer';
 
 import Info from './Info';
 import Makeappoint from './Makeappoint';
