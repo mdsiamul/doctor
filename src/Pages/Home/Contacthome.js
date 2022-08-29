@@ -9,13 +9,13 @@ const Contacthome = () => {
             </div>
 
             <div>
-                <input type="text" placeholder="Type here" class="input input-bordered input-sm w-full max-w-xs " />
+                <input type="text" placeholder="Type here" className="input input-bordered input-sm w-full max-w-xs " />
                 <br />
-                <input type="text" placeholder="Type here" class="input input-bordered input-md w-full max-w-xs my-5" />
+                <input type="text" placeholder="Type here" className="input input-bordered input-md w-full max-w-xs my-5" />
                 <br />
-                <input type="text" placeholder="Type here" class="input input-bordered input-lg w-full max-w-xs" />
+                <input type="text" placeholder="Type here" className="input input-bordered input-lg w-full max-w-xs" />
                 <br />
-                <button class="btn btn-primary mt-5">Get Started</button>
+                <button className="btn btn-primary mt-5">Get Started</button>
             </div>
         </div>
     );

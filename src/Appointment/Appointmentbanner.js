@@ -7,8 +7,8 @@ import { format } from 'date-fns/esm';
 const Appointmentbanner = ({ date, setDate }) => {
 
     return (
-        <div class="hero  bg-base-200">
-            <div class="hero-content flex-col lg:flex-row-reverse">
+        <div className="hero  bg-base-200">
+            <div className="hero-content flex-col lg:flex-row-reverse">
                 <img className='h-60' alt='dentish chair' src={chair} />
                 <div>
                     <DayPicker
